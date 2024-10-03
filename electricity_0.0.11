@@ -1,0 +1,12 @@
+{
+  "game:tabname-electricity": "电力",
+  "block-accumulator": "蓄电池",
+  "block-cable-*": "电缆",
+  "block-motor-*": "电动机",
+  "block-generator-*": "发电机",
+  "block-switch-*": "开关",
+  "block-lamp-*": "电灯",
+  "block-lamp_small-*": "电灯（小）",
+  "block-forge": "电热炉",
+  "block-heater-*": "电加热器"
+}
