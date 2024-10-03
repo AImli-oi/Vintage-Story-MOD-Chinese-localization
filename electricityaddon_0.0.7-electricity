@@ -1,0 +1,20 @@
+{
+  "game:tabname-electricity": "电力",
+  "block-accumulator": "蓄电池",
+  "block-cable-*": "电线",
+  "block-motor-*": "电动机",
+  "block-generator-*": "发电机",
+  "block-switch-*": "开关",
+  "block-lamp-*": "电灯",
+  "block-lamp_small-*": "小电灯",
+  "block-forge": "电熔炉",
+  "block-heater-*": "电加热器",
+
+  "game:Electricity": "电力",
+  "game:Storage": "存储：",
+  "game:Temperature": "温度：",
+  "game:Consumption": "消耗：",
+  "game:Production": "生产：",
+  "game:Overflow": "溢出： ",
+  "game:Contents": "内容："
+}
