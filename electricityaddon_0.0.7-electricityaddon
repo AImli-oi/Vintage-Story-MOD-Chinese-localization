@@ -1,0 +1,25 @@
+{
+  "block-charger": "充电站",
+  "block-estove-*": "电炉",
+  "block-efreezer-*": "电冰箱",
+  "block-largeaccumulator": "大型蓄电池",
+
+  "item-edrill": "电钻",
+  "item-echisel": "电凿",
+  "item-coil": "铜线圈",
+  "item-edrilltip": "钢钻头",
+  "item-engineshaft": "转子",
+
+  "game:drill1": "挖掘 1X1 块",
+  "game:drill2": "挖掘 3X3 块",
+
+  "game:BlockEStove": "电炉",
+  "game:freezer-title-gui": "电冰箱",
+  "game:freezer-over-sneak-help": "开门/关门",
+  "game:freezer-over-help": "打开门，把食物放进去保存。",
+  /*补充修错*/
+  "block-generatortier2-stator": "二级发电机",
+  "block-generatortier3-stator": "三级发电机",
+  "block-motortier2-stator": "二级电动机",
+  "block-motortier3-stator": "三级电动机"
+}
