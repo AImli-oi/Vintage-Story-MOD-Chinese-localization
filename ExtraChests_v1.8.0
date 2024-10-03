@@ -1,0 +1,39 @@
+  {
+  "block-copper-chest-*": "铜箱子",
+  "block-tinbronze-chest-*": "锡铜箱子",
+  "block-bismuthbronze-chest-*": "铋铜箱子",
+  "block-blackbronze-chest-*": "黑铜箱子",
+  "block-iron-chest-*": "铁箱子",
+  "block-steel-chest-*": "钢箱子",
+
+  "block-copper-labeledchest-*": "标签铜箱子",
+  "block-tinbronze-labeledchest-*": "标签锡铜箱子",
+  "block-bismuthbronze-labeledchest-*": "标签铋铜箱子",
+  "block-blackbronze-labeledchest-*": "标签黑铜箱子",
+  "block-iron-labeledchest-*": "标签铁箱子",
+  "block-steel-labeledchest-*": "标签钢箱子",
+
+  "item-chestupgrade-copper": "木箱升级为铜箱",
+  "itemdesc-chestupgrade-copper": "将木箱升级为铜箱。",
+  "item-handbooktext-*chestupgrade-copper*": "<strong>使用方式</strong>\r\n<strong>潜行 + 鼠标右键。",
+
+  "item-chestupgrade-tinbronze": "铜箱升级为锡铜箱",
+  "itemdesc-chestupgrade-tinbronze": "将铜箱升级为锡铜箱。",
+  "item-handbooktext-*chestupgrade-tinbronze*": "<strong>使用方式</strong>\r\n<strong>潜行 + 鼠标右键。",
+
+  "item-chestupgrade-bismuthbronze": "铜箱升级为铋铜箱",
+  "itemdesc-chestupgrade-bismuthbronze": "将铜箱升级为铋铜箱。",
+  "item-handbooktext-*chestupgrade-bismuthbronze*": "<strong>使用方式</strong>\r\n<strong>潜行 + 鼠标右键。",
+
+  "item-chestupgrade-blackbronze": "铜箱升级为黑铜箱",
+  "itemdesc-chestupgrade-blackbronze": "将铜箱升级为黑铜箱。",
+  "item-handbooktext-*chestupgrade-blackbronze*": "<strong>使用方式</strong>\r\n<strong>潜行 + 鼠标右键。",
+
+  "item-chestupgrade-iron": "青铜箱升级为铁箱",
+  "itemdesc-chestupgrade-iron": "将任何青铜箱子升级为铁箱。",
+  "item-handbooktext-*chestupgrade-iron*": "<strong>使用方式</strong>\r\n<strong>潜行 + 鼠标右键。",
+
+  "item-chestupgrade-steel": "铁箱升级为钢箱",
+  "itemdesc-chestupgrade-steel": "将铁箱升级为钢箱。",
+  "item-handbooktext-*chestupgrade-steel*": "<strong>使用方式</strong>\r\n<strong>潜行 + 鼠标右键。"
+}
